@@ -1,2 +1,2 @@
 # Prueba_Eval2
- Android Evaluacion 2   - Francisco  Frernandez y Igor LLancapan
+ Android Evaluacion 2   - Francisco  Frernandez e Igor LLancapan
